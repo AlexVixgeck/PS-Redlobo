@@ -1,12 +1,13 @@
 PS-Redlobo			www.redlobo.net
 ---------------------------------
-		Alex Vixgeck avixgeck@bitnic.es
+		Alex Vixgeck (avixgeck@bitnic.es)
 
 PS-Redlobo is a forked Project Strawberry with new upcoming features 
 like multilanguage support, with a Joomla 7 bridge, a brand new template 
 and such, aimed to be the main Redlobo.net multimedia archive.
 
 
+05.01.2012
 
 Project Strawberry		www.projectstrawberry.com
 ---------------------------------
